@@ -1,4 +1,4 @@
-![https://eloquentjavascript.net/img/village2x.png]("Village")
+!["Village"](https://eloquentjavascript.net/img/village2x.png)
 # project-robot
 
 ## The Task
