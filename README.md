@@ -1,3 +1,4 @@
+![https://eloquentjavascript.net/img/village2x.png]("Village")
 # project-robot
 
 ## The Task
@@ -28,6 +29,6 @@ class VillageState {
       }).filter(p => p.place != p.address);
       return new VillageState(destination, parcels);
     }
-  } 
+  }
 }
 ```
